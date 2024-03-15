@@ -31,3 +31,26 @@ DerivedData
 # Carthage
 Carthage/Checkouts
 Carthage/Build
+
+
+.build
+DerivedData
+/.previous-build
+xcuserdata
+.DS_Store
+*~
+\#*
+.\#*
+.*.sw[nop]
+*.xcscmblueprint
+/default.profraw
+*.xcodeproj
+Utilities/Docker/*.tar.gz
+.swiftpm
+Package.resolved
+/build
+*.pyc
+.docc-build
+.vscode
+Utilities/InstalledSwiftPMConfiguration/config.json
+/Derived
